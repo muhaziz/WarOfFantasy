@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="seren" size="1.000000 1.000000" />
+    <ImageTarget name="alyssia" size="1.000000 1.000000" />
+    <ImageTarget name="tharoq" size="1.000000 1.000000" />
+    <ImageTarget name="kaelen" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
